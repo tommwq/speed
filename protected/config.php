@@ -36,3 +36,4 @@ $domain = array(
 if(empty($domain[$_SERVER["HTTP_HOST"]])) die("配置域名不正确，请确认".$_SERVER["HTTP_HOST"]."的配置是否存在！");
 
 return $domain[$_SERVER["HTTP_HOST"]] + $config;
+?>

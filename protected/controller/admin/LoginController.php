@@ -8,3 +8,4 @@ class LoginController extends BaseController{
 		echo "hello login test";
 	}
 }
+?>

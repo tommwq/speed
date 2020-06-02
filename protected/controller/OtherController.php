@@ -49,3 +49,4 @@ class OtherController extends BaseController {
 		echo "请返回<a href='$backurl'>MainController/actionIndex</a>";
 	}
 }
+?>

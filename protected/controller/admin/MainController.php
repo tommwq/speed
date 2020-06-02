@@ -8,3 +8,4 @@ class MainController extends BaseController{
 		echo "hello admin test";
 	}
 }
+?>

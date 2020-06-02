@@ -94,3 +94,4 @@ class DbController extends BaseController {
 		$this->display("db/execute.html");
 	}
 }
+?>
